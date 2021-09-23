@@ -1,0 +1,23 @@
+{
+  "name": "aula_devops_usjt_2021pt2",
+  "version": "1.0.0",
+  "description": "App aula teste",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo Error: no test specified && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamillaFreitas/AulasCriaGit-Github.git"
+  },
+  "keywords": [
+    "Aula",
+    "teste"
+  ],
+  "author": "Camilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamillaFreitas/AulasCriaGit-Github/issues"
+  },
+  "homepage": "https://github.com/CamillaFreitas/AulasCriaGit-Github#readme"
+}
